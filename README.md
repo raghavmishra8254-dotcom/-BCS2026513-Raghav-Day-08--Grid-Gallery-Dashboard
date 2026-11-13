@@ -42,18 +42,18 @@ B.Tech CSE Student
 ⭐ Thanks for visiting my project!
 
 
-## 📸 Project Screenshot
+## 📸 Home Page
 
 ![Grid Gallery Dashboard](IMG_20261113_084310.jpg)
 
 
 
-## 📸 Project Screenshot
+## 📸 Gallery Page
 
 ![Grid Gallery Dashboard](IMG_20261113_101611.jpg)
 
 
-## 📸 Project Screenshot
+## 📸 Dashboard Page
 
 ![Grid Gallery Dashboard](IMG_20261113_101654.jpg)
 
