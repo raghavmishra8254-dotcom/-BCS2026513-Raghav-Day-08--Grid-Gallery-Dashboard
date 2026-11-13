@@ -55,6 +55,6 @@ B.Tech CSE Student
 
 ## 📸 Project Screenshot
 
-![Grid Gallery Dashboard](dashboard.png)
+![Grid Gallery Dashboard](IMG_20261113_101654.jpg)
 
 
